@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../autodoc.rst:3
 msgid "Contents"
-msgstr ""
+msgstr "Contants"
 
 #: ../../autodoc.rst:6
 msgid "helloWorld.py"
