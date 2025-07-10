@@ -9,6 +9,8 @@ jobs:
   build_docs_job:
     runs-on: ubuntu-latest
     container: debian:buster-slim
+    permissions:
+      contents: write  # 关键！赋予写入权限
  
     steps:
  
