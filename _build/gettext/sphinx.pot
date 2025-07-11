@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Michael Altfield
+# This file is distributed under the same license as the helloWorld package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: helloWorld \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-11 09:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../docs/_templates/versions.html:12
+msgid "Languages"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:22
+msgid "Versions"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:32
+msgid "Downloads"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:40
+msgid "On Read the Docs"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:42
+msgid "Project Home"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:45
+msgid "Builds"
+msgstr ""
+
+#: ../../docs/_templates/versions.html:50
+msgid "<a href=\"https://tech.michaelaltfield.net/2020/07/18/sphinx-rtd-github-pages-1/\">Continuous Documentation</a> hosting provided by <a href=\"https://pages.github.com/\">GitHub Pages</a>."
+msgstr ""
